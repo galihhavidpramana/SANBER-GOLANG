@@ -6,7 +6,7 @@ import (
 	"strings"
 )
 
-// soal formative 8
+// soal formativee 8
 // soal no1
 type segitigaSamaSisi struct {
 	alas, tinggi int
